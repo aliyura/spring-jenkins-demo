@@ -41,6 +41,7 @@
 				<version>2.19.1</version>
 			</plugin>
 		</plugins>
+		<finalName>spring-jenkins-demo</finalName>
 	</build>
 
 </project>
